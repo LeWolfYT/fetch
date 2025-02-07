@@ -11,4 +11,3 @@ function fetchnw(icao) {
 var $module = {
   fetchNWS: fetchnw
 }
-export {fetchnw}
