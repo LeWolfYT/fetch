@@ -9,7 +9,7 @@ function fetchnw(icao) {
     });
   return resp
 }
-//var $module = {
-//  fetchNWS: fetchnw
-//}
-export {fetchnw}
+var $module = {
+  fetchNWS: fetchnw
+}
+//export {fetchnw}
